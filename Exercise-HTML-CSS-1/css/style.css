@@ -1,0 +1,9 @@
+.row div{
+	padding: 20px 10px;border: 1px solid;
+}
+#bp1, #bp2{
+	margin-left: 1em;
+}
+#bp3, #bp4, #bp5, #bp6, #bp7, #bp8{
+	margin-left: 3em;
+}
